@@ -38,3 +38,8 @@ Zero-dependency Node.js, nginx, systemd, Cloudflare. Data from TronGrid, public 
 - Contact: https://chianbot66.cc/contact
 
 Independent project, not affiliated with Tether, Binance or any exchange.
+## Subscribe on RapidAPI
+
+Basic is free; Pro is $29/mo, Ultra $99/mo, Mega $299/mo.
+
+- https://rapidapi.com/aotumoney/api/all-chain-explorer-api
